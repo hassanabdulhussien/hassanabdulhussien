@@ -18,8 +18,9 @@ Based in Kuwait · Computer Science graduate, Beirut Arab University
 
 | Project | Overview | Explore |
 | --- | --- | --- |
+| **Talia Beauty Shop** | Live beauty storefront for makeup, skincare, and fragrance. | [Visit website](https://taliabeautyshop.com) |
 | **KHATWA** | AI-powered student guidance platform for exploring universities and housing. My university senior project. | [Public project overview](https://hasan.website/work/khatwa.html) |
-| **Developer Portfolio** | My projects, technical experience, training, and development notes in one place. | [Visit portfolio](https://hasan.website) |
+| **Developer Portfolio** | My projects, technical experience, training, and development notes in one place. | [Website](https://hasan.website) · [Source](https://github.com/hassanabdulhussien/portfolio) |
 | **IDC** | Pixel-inspired React demo with a five-screen interactive flow and reusable components. | [View source](https://github.com/hassanabdulhussien/Idc-web) |
 
 ## Skills & interests
